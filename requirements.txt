@@ -1,11 +1,11 @@
-pandas: 2.2.3
-numpy: 2.1.3
-tensorflow: 2.19.0
-scikit-learn: 1.6.1
-xgboost: 3.0.0
-lightgbm: 4.6.0
-flask: 3.1.0
-pyspark: 3.5.5
-mysql-connector-python: 9.3.0
+pandas
+numpy
+tensorflow
+scikit-learn
+xgboost
+lightgbm
+flask
+pyspark
+mysql-connector-python
 imbalanced-learn
 sqlalchemy
